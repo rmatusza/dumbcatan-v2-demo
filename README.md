@@ -4,9 +4,8 @@ This is the Docker based demo for [Dumb Catan Version 2 (github repo)](https://g
 
 ### 📦 Step 1: Download and Unzip
 
-1. Download the ZIP file in this repository that corresponds to your operating system
-   - [Windows](https://github.com/rmatusza/dumbcatan-v2-demo/raw/main/dumb-catan-demo-windows.zip)
-   - [Mac](https://github.com/rmatusza/dumbcatan-v2-demo/raw/main/dumb-catan-demo-mac.zip)
+1. [Download the ZIP file](https://github.com/rmatusza/dumbcatan-v2-demo/raw/main/dumb-catan-demo.zip) in this repository 
+
 2. Unzip the archive. Inside, you'll find:
    - `docker-compose.yml`
    - `init.sql`
