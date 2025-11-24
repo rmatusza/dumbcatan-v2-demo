@@ -21,3 +21,9 @@ In your terminal, navigate to the unzipped folder and run:
 ### 📡 Step 3: Access the Application
 
 Open up a web browser and navigate to http://localhost:3000
+
+### 🧹 Step 4: Tear Down
+
+When you're finished with the demo, you can delete all the resources by entering the below command in the terminal within the same directory where you entered the other commands from the previous steps:
+
+`docker compose down -v`
