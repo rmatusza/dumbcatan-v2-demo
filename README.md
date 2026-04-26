@@ -1,6 +1,6 @@
 ## 🚀 Quick Start
 
-This is the Docker based demo for [Dumb Catan Version 2 (github repo)](https://github.com/rmatusza/dumbcatan-v2-public)
+This is the Docker based demo for [Dumb Catan Version 2](https://github.com/rmatusza/dumbcatan-v2-public)
 
 ### 📦 Step 1: Download and Unzip
 
